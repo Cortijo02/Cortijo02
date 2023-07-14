@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-📌I'm studying software enginer 😄<br>📌I'm currently learning for improving myself ⚡<br>📌I'm looking for team working 🤝🏻
+📌I'm studying software engineering 😄<br>📌I'm currently learning for improving myself ⚡<br>📌I'm looking for team working 🤝🏻
 
 
 ## 🌐 Socials:
